@@ -1,4 +1,4 @@
-from collections import deque  # Make sure this is at the top of your script
+from collections import deque
 
 class BancoQueue:
     def __init__(self):
