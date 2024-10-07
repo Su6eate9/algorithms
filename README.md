@@ -4,23 +4,25 @@ Este repositório contém uma coleção de algoritmos clássicos e implementaç�
 
 # Conteúdo:
 
-- Estruturas de Dados:
-  Listas encadeadas (simples e duplamente encadeadas)
-  Pilhas (Stacks)
-  Filas (Queues)
-  Árvores (Binária, AVL, etc.)
-  Tabelas Hash
-  Grafos e representações
-  Conjuntos (Sets)
+Estruturas de Dados:
 
-- Algoritmos:
-  Ordenação (Bubble Sort, Merge Sort, Quick Sort, etc.)
-  Busca (Busca Binária, Busca Linear)
-  Caminho em Grafos (DFS, BFS, Dijkstra, A\*)
-  Algoritmos de Divisão e Conquista
-  Programação Dinâmica
-  Algoritmos Gulosos
-  Algoritmos de Backtracking
+- Listas encadeadas (simples e duplamente encadeadas)
+- Pilhas (Stacks)
+- Filas (Queues)
+- Árvores (Binária, AVL, etc.)
+- Tabelas Hash
+- Grafos e representações
+- Conjuntos (Sets)
+
+Algoritmos:
+
+- Ordenação (Bubble Sort, Merge Sort, Quick Sort, etc.)
+- Busca (Busca Binária, Busca Linear)
+- Caminho em Grafos (DFS, BFS, Dijkstra, A\*)
+- Algoritmos de Divisão e Conquista
+- Programação Dinâmica
+- Algoritmos Gulosos
+- Algoritmos de Backtracking
 
 # Objetivo:
 
